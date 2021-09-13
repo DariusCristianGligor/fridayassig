@@ -1,0 +1,45 @@
+#body {
+  background-color: rgb(207, 194, 194);
+}
+.people {
+  margin-top: 4em;
+  margin-bottom: 4em;
+  margin-left: 40px;
+  margin-right: 40px;
+  width: 200px;
+  height: 150px;
+  background: dodgerblue;
+  box-shadow: 0 0 30px rgb(85, 84, 84);
+  border: 2px solid rgb(85, 84, 84);
+}
+#btnOnOf {
+  border-radius: 12%;
+  background-color: rgb(218, 189, 108);
+  float: right;
+  width: 100px;
+  height: 60px;
+}
+
+p {
+  margin-left: 15px;
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+.Button {
+  margin-left: 12px;
+  margin-top: 6px;
+  margin-bottom: 6px;
+  width: 90px;
+  height: 30px;
+  background-color: rgb(218, 189, 108);
+}
+.Button:hover,
+.Button:focus {
+  color: rgb(66, 64, 64);
+  background-color: darkgreen;
+}
+#btnOnOf:hover,
+:focus {
+  color: beige;
+  background-color: rgb(47, 156, 61);
+}
